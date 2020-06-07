@@ -1,5 +1,5 @@
 # Setup
-title:        光辉岁月 Blog
+title:        ZHONG.C.Y Blog
 tagline:      不积跬步 无以至千里
 baseurl:      ""
 paginate:     1
@@ -7,7 +7,7 @@ locale:       "en"
 
 # About/contact
 author:
-  name:       Davi zhong
+  name:       ZHONG.C.Y
   url:        www.ivivi.com.cn
 
 # Gems
