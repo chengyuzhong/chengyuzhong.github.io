@@ -1,7 +1,7 @@
 # Setup
-title:        悔不该当程序猿 个人主页
-tagline:      不积跬步 无以至千里
-baseurl:      ""
+title:        
+tagline:      光辉岁月 Blog
+baseurl:      "不积跬步 无以至千里"
 paginate:     1
 locale:       "en"
 
