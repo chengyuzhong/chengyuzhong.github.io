@@ -1,7 +1,7 @@
 # Setup
-title:        
-tagline:      光辉岁月 Blog
-baseurl:      "不积跬步 无以至千里"
+title:        光辉岁月 Blog
+tagline:      不积跬步 无以至千里
+baseurl:      ""
 paginate:     1
 locale:       "en"
 
