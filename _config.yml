@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        悔不该当程序猿
+tagline:      不积跬步 无以至千里
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Davi zhong
+  url:        www.ivivi.com.cn
 
 # Gems
 gems:
