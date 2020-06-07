@@ -10,8 +10,8 @@ Hi, this is my main page.
 ## 基本信息 
 
 * 性 别：男 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 年 龄：25  
-* 手 机：176****2921 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：zhongchengyuv@163.com>    
-* 专 业：信息与计算科学 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Java开发
+* 手 机：176****2921 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;  邮 箱：zhongchengyuv@163.com
+* 专 业：信息与计算科学 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 岗 位：Java开发
 
 ## 工作及教育经历
 
@@ -45,7 +45,7 @@ Hi, this is my main page.
 * 竞赛 XXX 奖
 
 ## 个人账号 
-* 个人主页：<www.ivivi.com.cn> 
+* 个人主页：www.ivivi.com.cn
 * github 地址 
 * 微博（如果发了很多技术相关的话）
 
