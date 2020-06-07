@@ -7,17 +7,49 @@ categories: main
 
 Hi, this is my main page.
 
-Jekyll also offers powerful support for code snippets:
+## 基本信息 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+* 性 别：男 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 年 龄：25  
+* 手 机：176****2921 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：zhongchengyuv@163.com>    
+* 专 业：信息与计算科学 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Java开发
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+## 工作及教育经历
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp;  事业群名字-部门名字       
+* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
+* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+
+## 专业技能
+
+* 熟练使用 C++，了解 Java、Go、Python、PHP 等编程语言
+* 掌握基础数据结构和算法的基本原理
+* 等等
+
+## 项目经历
+
+1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
+    * 具体功能 
+    * 运用了那些技术
+    * 效果如何
+    * demo演示地址，github地址 
+
+2. 公司/学校 - XX游戏 - 独立开发 - 201309- 201401 
+    * 具体功能 
+    * 运用了那些技术
+    * 效果如何
+    * demo演示地址，github地址 
+
+## 获奖经历
+* XXX 优秀新人
+* XXX 学生社团优秀干部
+* 竞赛 XXX 奖
+
+## 个人账号 
+* 个人主页：<www.ivivi.com.cn> 
+* github 地址 
+* 微博（如果发了很多技术相关的话）
+
+## 其他信息 
+* 喜欢钻研技术 等等
+* 性格开朗，等等 
+
